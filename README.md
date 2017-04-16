@@ -4,6 +4,9 @@ Logging is always useful while writing codes.You can make it easier with <code>l
 First one is what you want to log.  
 Second one is which font size (by pxls) you want to set.  
 And third one is color.  
+```js
+npm install --save my_log
+```
 
 ### Examples 
 ```js
