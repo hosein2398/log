@@ -1,4 +1,4 @@
-function log() {
+module.exports = function log() {
     var color = "black";
     var size;
     if (arguments[1]) {
@@ -17,4 +17,4 @@ function log() {
         throw 'Arguments length should not be bigger than 3';
     }
     console.log("%c" + arguments[0], "color: " + color + "; font-size:" + size);
-}
+};

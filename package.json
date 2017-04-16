@@ -1,5 +1,5 @@
 {
-  "name": "log",
+  "name": "my_log",
   "version": "1.0.0",
   "description": "A tool for logging",
   "main": "log.js",
